@@ -1,4 +1,6 @@
-# Number of Refugees Analysis - Data Engineering MVP
+# Number of Refugees Analysis
+**Data Engineering MVP**
+
 Analysis of the UNHCR data for 2010-2021 on the distribution of refugees in the world.
 
 The main notebook displaying the work proposed and performed in this project and be found in [MVP_refugees.ipynb](https://github.com/estellasouza/Refugees_analysis/blob/main/MVP_refugees.ipynb).
